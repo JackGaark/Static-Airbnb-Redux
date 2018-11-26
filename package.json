@@ -24,8 +24,13 @@
     "webpack-dev-server": "^3.1.4"
   },
   "dependencies": {
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "google-map-react": "^1.0.9",
+    "react": "16.0.0",
+    "react-dom": "16.0.0",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "redux-logger": "^3.0.6",
+    "redux-promise": "^0.6.0"
   },
   "scripts": {
     "start": "webpack-dev-server --mode development",
